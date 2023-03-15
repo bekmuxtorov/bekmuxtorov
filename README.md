@@ -10,5 +10,5 @@ I'm glad as you're here
 - 💬 Ask me about python tricks
 - 📫 How to reach me: [Email](mailto:asadbekmuxtorov2@gmail.com) or [LinkedIn](https://www.linkedin.com/in/bekmuxtorov)
 
-![Asadbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekmuxtorov&count_private=true&theme=dark&show_icons=true)
+
 
